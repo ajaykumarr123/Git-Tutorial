@@ -1,6 +1,7 @@
 # git-tutorial
 
 - Resources:
+  - Quick videos- [Git](https://www.youtube.com/watch?v=USjZcfj8yxE)     [Github](https://www.youtube.com/watch?v=nhNq2kIvi9s)
   - Git tutorial- https://try.github.io
   - Book on Git- [Pro Git](http://git-scm.com/book/en/v2)
   - Git Cheatsheet - https://github.github.com/training-kit/downloads/github-git-cheat-sheet/ 

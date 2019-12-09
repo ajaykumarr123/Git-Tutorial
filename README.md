@@ -1,10 +1,11 @@
 # git-tutorial
 
 - Resources:
-  - Quick videos- [Git](https://www.youtube.com/watch?v=USjZcfj8yxE)     [Github](https://www.youtube.com/watch?v=nhNq2kIvi9s)
+  - Quick videos- [Git](https://www.youtube.com/watch?v=USjZcfj8yxE)   [Github](https://www.youtube.com/watch?v=nhNq2kIvi9s)
+  - Git Cheatsheet - https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
   - Git tutorial- https://try.github.io
   - Book on Git- [Pro Git](http://git-scm.com/book/en/v2)
-  - Git Cheatsheet - https://github.github.com/training-kit/downloads/github-git-cheat-sheet/ 
+  
 
 You can also go through the [Git and GitHub learning resources](https://help.github.com/articles/good-resources-for-learning-git-and-github/) provided by GitHub to find other resources to fit your need.
 This file is written in the [Markdown format](https://guides.github.com/features/mastering-markdown/).
